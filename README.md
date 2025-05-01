@@ -23,7 +23,7 @@ This project explores survival analysis using parametric models to understand ch
 ## Project Structure
 
 - `telco.csv` — The dataset used for modeling.
-- `survival_clv_analysis.ipynb` — Main notebook with code and report.
+- `HW3_Sona_Stepanyan.ipynb` — Main notebook with code and report.
 - `requirements.txt` — Dependencies.
 - `README.md` — Project overview.
 
